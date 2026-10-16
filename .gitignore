@@ -1,0 +1,15 @@
+# Keep secrets out of git
+.env
+
+# Virtual environment
+.venv/
+
+# IDE folder
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
